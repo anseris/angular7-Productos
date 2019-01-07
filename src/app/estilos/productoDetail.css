@@ -1,0 +1,11 @@
+.imagenContainer{
+    width: 100%;
+    overflow: hidden;
+}
+.productoImagen{
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+
+}
